@@ -3,7 +3,7 @@
 # Shopping cart - NodeJS/Express
 
 # Live Demo on Heroku:
-[nodejs-shopping-cart.herokuapp.com](https://nodejs-shopping-cart.herokuapp.com/)
+[nodejs-shopping-cart.herokuapp.com](https://aqueous-coast-21715.herokuapp.com)
 
 ### Run Locally on Your Machine
 You need Node, NPM and MongoDB properly installed.
